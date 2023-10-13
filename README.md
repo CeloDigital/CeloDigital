@@ -6,7 +6,7 @@
 
 <p align="center">
   Atualmente estou cursando Análise e Desenvolvimento de Sistemas <br>
-Gosto muito de jogar, assistir séries, animes, filmes, talves ler livros, músicas e interagir<br>
+Gosto muito de jogar, assistir séries, animes, filmes, talvez ler livros, músicas e interagir<br>
 Sou desenvolver em Java e pretendo me especializar!
 </p>
 
