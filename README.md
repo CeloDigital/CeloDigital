@@ -131,6 +131,6 @@ Meu objetivo é conquistar oportunidades na área de desenvolvimento Front-end, 
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/CeloDigital/CeloDigital/output/github-contribution-grid-snake.svg">
 
 </p>
