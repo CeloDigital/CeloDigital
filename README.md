@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá! Eu sou Marcelo Silvestre
+#Olá! Eu sou Marcelo Silvestre
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Desenvolvedor+Front-end;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Algo+Novo;React+%7C+JavaScript+%7C+HTML+%7C+CSS" />
 
