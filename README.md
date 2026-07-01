@@ -47,5 +47,5 @@
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/CeloDigital?style=for-the-badge&color=00EF8C&label=SEGUIDORES" alt="Seguidores" />
-  <img src="https://img.shields.io/github/repo-size/CeloDigital/MyPortfolio?style=for-the-badge&color=20232A&label=TAMANHO%20DO%20REPOSITORIO" alt="Tamanho" />
+  <img src="https://img.shields.io/github/repos/CeloDigital?style=for-the-badge&color=20232A&label=REPOSITORIOS" alt="Repositórios" />
 </div>
