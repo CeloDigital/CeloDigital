@@ -1,7 +1,7 @@
 <div align="center">
   <!-- BANNER ANIMADO OU GIF DE INTRODUÇÃO -->
   <!-- Dica: Substitua a URL abaixo por um GIF de anime do Giphy ou Tenor, ou um banner customizado -->
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2M0NmE4MmRtc3E0bnhpYmoxeTdwYTA0ZXg3N3I2Z3p1ZzV5N2N3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kdFc8Bi6gXy6FPlwE7/giphy.gif" width="100%" alt="Banner Tech/Anime](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHB6NGFyMWZpbW5hN21hMzg0MWZxN2xjNGJwMGpmZWtweGlmbjlvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif)" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHB6NGFyMWZpbW5hN21hMzg0MWZxN2xjNGJwMGpmZWtweGlmbjlvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" />
 
   <h1>👋 Olá, eu sou o Marcelo!</h1>
   <p><i>Desenvolvedor Full Stack & Entusiasta de Hardware</i></p>
