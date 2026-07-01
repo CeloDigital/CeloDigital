@@ -43,9 +43,11 @@
 
 ---
 
+---
+
 ### 📊 Estatísticas do GitHub (Efeito Automático)
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CeloDigital&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub Marcelo" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeloDigital&layout=compact&theme=dark" alt="Linguagens mais usadas Marcelo" />
+  <img height="180" src="https://github-readme-stats-two.vercel.app/api?username=CeloDigital&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=CeloDigital&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
