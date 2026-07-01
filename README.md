@@ -1,42 +1,128 @@
 <div align="center">
-  <!-- BANNER ANIMADO OU GIF DE INTRODUÇÃO -->
-  <!-- Dica: Substitua a URL abaixo por um GIF de anime do Giphy ou Tenor, ou um banner customizado -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHB6NGFyMWZpbW5hN21hMzg0MWZxN2xjNGJwMGpmZWtweGlmbjlvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" />
 
-  <h1>👋 Olá, eu sou o Marcelo!</h1>
-  <p><i>Desenvolvedor Full Stack & Entusiasta de Hardware</i></p>
+# 👋 Olá! Eu sou Marcelo Silvestre
 
-  <!-- BADGES COM SEUS LINKS -->
-  <a href="https://linkedin.com/in/marcelo-silvestre-2ba34b231" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:contato@marcelo.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Email-00EF8C?style=for-the-badge&logo=gmail&logoColor=000" alt="Email" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Desenvolvedor+Front-end;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Algo+Novo;React+%7C+JavaScript+%7C+HTML+%7C+CSS" />
+
 </div>
 
 ---
 
-### 💻 Sobre Mim
-* 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**.
-* 🚀 Focado no ecossistema de desenvolvimento web moderno com **React.js**, **Tailwind CSS** e back-end em **Java / Spring Boot**.
-* 🛠️ Apaixonado por infraestrutura de hardware, montagem, manutenção avançada de setups e arquitetura Cloud.
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+## 🚀 Sobre mim
+
+💻 Desenvolvedor Front-end em constante evolução.
+
+Atualmente estou focado em criar interfaces modernas, responsivas e intuitivas, enquanto aprimoro minhas habilidades em desenvolvimento web.
+
+### 🌱 Atualmente estudando
+
+- ⚛️ React
+- 🟨 JavaScript
+- 🎨 HTML & CSS
+- 🔥 Git e GitHub
+- 💼 Boas práticas de desenvolvimento
+- 🖥️ COBOL
 
 ---
 
-### 🎮 Hobbies & Interesses
-* 👾 Nas horas vagas gosto de jogar.
-* 🎧 Curto bastante animes, trilhas sonoras lo-fi.
-* 🌎 Praticando e aprimorando meu inglês diariamente focado em tecnologia e carreira global.
+## 🎯 Objetivo
+
+Meu objetivo é conquistar oportunidades na área de desenvolvimento Front-end, participar de projetos desafiadores e evoluir constantemente como desenvolvedor.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias
 
-<div align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,github,vscode,figma"/>
+
+</div>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📚 Atualmente aprendendo
+
+```text
+███████████████████░░░ React
+█████████████████░░░░ JavaScript
+███████████████░░░░░░ Git/GitHub
+████████████░░░░░░░░ COBOL
+```
+
+---
+
+## 🎮 Fora da programação
+
+- 🎮 Games
+- 🚴 Andar de bicicleta
+- 🎸 Tocar violão
+- 🎬 Filmes de terror e suspense
+- 📖 Aprender novas tecnologias
+
+---
+
+## 📈 Minhas metas
+
+- ✅ Evoluir como Desenvolvedor Front-end
+- 🚀 Construir projetos cada vez mais completos
+- 📚 Aprender novas tecnologias constantemente
+- 💼 Trabalhar profissionalmente com desenvolvimento web
+
+---
+
+## 🌎 Onde me encontrar
+
+<div align="center">
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/SEU_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+> **"A melhor maneira de aprender é construindo."**
+
+<img width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 </div>
