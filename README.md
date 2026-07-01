@@ -1,7 +1,7 @@
 <div align="center">
   <!-- BANNER ANIMADO OU GIF DE INTRODUÇÃO -->
   <!-- Dica: Substitua a URL abaixo por um GIF de anime do Giphy ou Tenor, ou um banner customizado -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2M0NmE4MmRtc3E0bnhpYmoxeTdwYTA0ZXg3N3I2Z3p1ZzV5N2N3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kdFc8Bi6gXy6FPlwE7/giphy.gif" width="100%" alt="Banner Tech/Anime" />
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2M0NmE4MmRtc3E0bnhpYmoxeTdwYTA0ZXg3N3I2Z3p1ZzV5N2N3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kdFc8Bi6gXy6FPlwE7/giphy.gif" width="100%" alt="Banner Tech/Anime](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHB6NGFyMWZpbW5hN21hMzg0MWZxN2xjNGJwMGpmZWtweGlmbjlvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif)" />
 
   <h1>👋 Olá, eu sou o Marcelo!</h1>
   <p><i>Desenvolvedor Full Stack & Entusiasta de Hardware</i></p>
@@ -25,8 +25,8 @@
 ---
 
 ### 🎮 Hobbies & Interesses
-* 👾 Nas horas vagas gosto de jogar **Stardew Valley**, **League of Legends** e explorar modificações técnicas em servidores de **Minecraft**.
-* 🎧 Curto bastante animes, trilhas sonoras lo-fi e passar um tempo organizando comunidades no Discord.
+* 👾 Nas horas vagas gosto de jogar.
+* 🎧 Curto bastante animes, trilhas sonoras lo-fi.
 * 🌎 Praticando e aprimorando meu inglês diariamente focado em tecnologia e carreira global.
 
 ---
