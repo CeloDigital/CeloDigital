@@ -126,3 +126,11 @@ Meu objetivo é conquistar oportunidades na área de desenvolvimento Front-end, 
 <img width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 </div>
+
+## 🐍 Snake Animation
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
+
+</p>
