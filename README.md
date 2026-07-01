@@ -40,12 +40,3 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
 </div>
-
----
-
-### 📊 Estatísticas do GitHub (Efeito Automático)
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/CeloDigital?style=for-the-badge&color=00EF8C&label=SEGUIDORES" alt="Seguidores" />
-  <img src="https://img.shields.io/github/repos/CeloDigital?style=for-the-badge&color=20232A&label=REPOSITORIOS" alt="Repositórios" />
-</div>
