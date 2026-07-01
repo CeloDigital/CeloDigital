@@ -127,10 +127,3 @@ Meu objetivo é conquistar oportunidades na área de desenvolvimento Front-end, 
 
 </div>
 
-## 🐍 Snake Animation
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/CeloDigital/output/github-contribution-grid-snake.svg">
-
-</p>
