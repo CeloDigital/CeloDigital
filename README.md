@@ -43,16 +43,9 @@
 
 ---
 
----
-
----
-
----
-
 ### 📊 Estatísticas do GitHub (Efeito Automático)
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/CeloDigital?style=for-the-badge&color=00EF8C&label=SEGUIDORES" alt="Seguidores" />
   <img src="https://img.shields.io/github/repo-size/CeloDigital/MyPortfolio?style=for-the-badge&color=20232A&label=TAMANHO%20DO%20REPOSITORIO" alt="Tamanho" />
-</div>c="https://img.shields.io/github/repo-size/CeloDigital/MyPortfolio?style=for-the-badge&color=20232A&label=PORTFOLIO%20SIZE" alt="Tamanho do Portfólio" />
 </div>
