@@ -47,12 +47,12 @@
 
 ---
 
+---
+
 ### 📊 Estatísticas do GitHub (Efeito Automático)
 
 <div align="center">
-  <!-- Badge de Total de Commits -->
-  <img src="https://img.shields.io/github/commits-each-year/CeloDigital?style=for-the-badge&color=00EF8C&label=COMMITS" alt="Commits Totais" />
-  
-  <!-- Badge de Quantidade de Repositórios -->
-  <img src="https://img.shields.io/github/repo-size/CeloDigital/MyPortfolio?style=for-the-badge&color=20232A&label=PORTFOLIO%20SIZE" alt="Tamanho do Portfólio" />
+  <img src="https://img.shields.io/github/followers/CeloDigital?style=for-the-badge&color=00EF8C&label=SEGUIDORES" alt="Seguidores" />
+  <img src="https://img.shields.io/github/repo-size/CeloDigital/MyPortfolio?style=for-the-badge&color=20232A&label=TAMANHO%20DO%20REPOSITORIO" alt="Tamanho" />
+</div>c="https://img.shields.io/github/repo-size/CeloDigital/MyPortfolio?style=for-the-badge&color=20232A&label=PORTFOLIO%20SIZE" alt="Tamanho do Portfólio" />
 </div>
