@@ -45,9 +45,14 @@
 
 ---
 
+---
+
 ### 📊 Estatísticas do GitHub (Efeito Automático)
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-two.vercel.app/api?username=CeloDigital&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=CeloDigital&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <!-- Badge de Total de Commits -->
+  <img src="https://img.shields.io/github/commits-each-year/CeloDigital?style=for-the-badge&color=00EF8C&label=COMMITS" alt="Commits Totais" />
+  
+  <!-- Badge de Quantidade de Repositórios -->
+  <img src="https://img.shields.io/github/repo-size/CeloDigital/MyPortfolio?style=for-the-badge&color=20232A&label=PORTFOLIO%20SIZE" alt="Tamanho do Portfólio" />
 </div>
